@@ -14,10 +14,7 @@ declares
     Educations,
     Job,
     Jobs,
-    TimeMoment
-{
-
-    use Time::Moment;
+    TimeMoment {
 
     class_type TimeMoment => { class => 'Time::Moment' };
     class_type Education => { class => 'Acme::Resume::Types::Education' };

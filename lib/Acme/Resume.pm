@@ -9,6 +9,7 @@ use warnings;
 use base 'MoopsX::UsingMoose';
 
 use Acme::Resume::Moose();
+use Time::Moment;
 use syntax();
 
 sub import {
