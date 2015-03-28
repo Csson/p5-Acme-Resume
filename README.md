@@ -4,7 +4,7 @@ Acme::Resume - Write a humuan-readable rÃ©sumÃ© in Perl
 
 # VERSION
 
-Version 0.0100, released 2015-03-28.
+Version 0.0001, released 2015-03-28.
 
 # SYNOPSIS
 

@@ -6,15 +6,15 @@ use warnings;
 
 library Acme::Resume::Types
 
-# VERSION
-# ABSTRACT: Declares types
-
 declares
     Education,
     Educations,
     Job,
     Jobs,
     TimeMoment {
+
+    # VERSION
+    # ABSTRACT: Declares types
 
     class_type TimeMoment => { class => 'Time::Moment' };
     class_type Education => { class => 'Acme::Resume::Types::Education' };
