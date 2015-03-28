@@ -10,6 +10,15 @@ prereqs:
       - perl: 5.014000
       - Moops: 0.034
       - Moose: 2.000
+      - String::Nudge
+      - Types::Standard
+      - Types::URI
+      - Moo::Role
+      - Module::Runtime
+      - Moose::Exporter
+      - Time::Moment
+      - syntax
+      - Syntax::Feature::Qs
 
 plugins:
   - +config: Author::CSSON
@@ -21,3 +30,5 @@ plugins:
   - +config: Author::CSSON
 
   - +remove_plugin: Splint
+
+  - +remove_plugin: Badges
