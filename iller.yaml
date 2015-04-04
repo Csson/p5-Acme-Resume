@@ -10,6 +10,7 @@ prereqs:
       - perl: 5.014000
       - Moops: 0.034
       - Moose: 2.000
+      - MoopsX::UsingMoose
       - String::Nudge
       - Types::Standard
       - Types::URI
