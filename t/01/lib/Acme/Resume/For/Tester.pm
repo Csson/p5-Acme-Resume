@@ -2,9 +2,10 @@ use Acme::Resume;
 use strict;
 use warnings;
 
-resume Tester {
+# PODCLASSNAME
+# VERSION
 
-    our $VERSION = 0.01;
+resume Tester {
 
     name 'The Tester';
 
