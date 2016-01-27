@@ -21,7 +21,7 @@ around _eat_package => sub {
     }
 
     return $self->qualify_module_name($pkg, $rel);
-    
+
 };
 
 after parse => sub {

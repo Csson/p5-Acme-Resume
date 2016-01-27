@@ -3,11 +3,10 @@ use strict;
 use warnings;
 
 # PODCLASSNAME
+# VERSION
+# ABSTRACT: Defines a Job
 
 class Acme::Resume::Types::Job :rw {
-
-    # VERSION
-    # ABSTRACT: Defines a Job
 
     has company => (
         isa => Str,

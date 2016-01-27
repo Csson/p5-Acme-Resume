@@ -37,7 +37,7 @@ role Acme::Resume::Output::ToPlain {
             push @lines => '', 'Work experience', '-' x length 'work experience';
 
             foreach my $job ($self->all_jobs) {
-                
+
                 push @lines => 'Company:  ' . $job->company;
                 push @lines => 'Url:      ' . $job->url if $job->has_url;
                 push @lines => 'Location: ' . $job->location;

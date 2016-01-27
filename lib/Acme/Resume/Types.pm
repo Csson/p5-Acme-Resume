@@ -3,6 +3,7 @@ use strict;
 use warnings;
 
 # PODCLASSNAME
+# VERSION
 
 library Acme::Resume::Types
 
@@ -60,7 +61,7 @@ declares
 
     coerce TimeMoment,
     from Str,
-    via { 
+    via {
         $_ =~ m{^(?<month>\w*)    \s    # full month name
                  (?<day>\d{1,2}), \s    # day of month
                  (?<year>\d{4})         # year

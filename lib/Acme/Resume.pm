@@ -1,13 +1,12 @@
 package Acme::Resume;
 
 # VERSION
-# ABSTRACT: Write a human-readable résumé in Perl
+# ABSTRACT: Write a human-readable resume in Perl
 
 use strict;
 use warnings;
 
 use base 'MoopsX::UsingMoose';
-
 use Acme::Resume::Moose();
 use Time::Moment;
 use syntax();

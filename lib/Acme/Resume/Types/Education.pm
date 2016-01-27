@@ -3,11 +3,10 @@ use strict;
 use warnings;
 
 # PODCLASSNAME
+# VERSION
+# ABSTRACT: Defines an education
 
 class Acme::Resume::Types::Education :rw {
-
-    # VERSION
-    # ABSTRACT: Defines an education
 
     has school => (
         isa => Str,
