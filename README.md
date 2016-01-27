@@ -1,10 +1,12 @@
 # NAME
 
-Acme::Resume - Write a humuan-readable rÃ©sumÃ© in Perl
+Acme::Resume - Write a human-readable resume in Perl
+
+![Requires Perl 5.14+](https://img.shields.io/badge/perl-5.14+-brightgreen.svg) [![Travis status](https://api.travis-ci.org/Csson/p5-Acme-Resume.svg?branch=master)](https://travis-ci.org/Csson/p5-Acme-Resume) ![coverage 86.4%](https://img.shields.io/badge/coverage-86.4%-orange.svg)
 
 # VERSION
 
-Version 0.0001, released 2015-03-28.
+Version 0.0102, released 2016-01-27.
 
 # SYNOPSIS
 
@@ -95,7 +97,7 @@ Erik Carlsson <info@code301.com>
 
 # COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2015 by Erik Carlsson <info@code301.com>.
+This software is copyright (c) 2016 by Erik Carlsson.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.

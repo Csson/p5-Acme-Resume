@@ -1,4 +1,30 @@
 Revision history for Acme-Resume
 
 {{$NEXT}}
+ [API Changes]
+
+ [Bug Fixes]
+
+ [Documentation]
+  - Fixed typo in abstract (#1, thanks ETHER).
+
+ [Enhancements]
+
+ [Meta]
+
+ [New Features]
+
+ [Requirements]
+
+ [Other Changes]
+  - Rebuilt with current dzil plugins in Dist::Iller::Config::Author::CSSON.
+  - Various minor fixes (trailing whitespace, kwalitee fixes).
+
+ [Testing]
+
+0.0101 2015-04-04T20:26:19Z CEST
+ [Requirements]
+ - MoopsX::UsingMoose is a prereq.
+
+0.0100 2015-03-28T22:40:54Z CET
  - Initial release

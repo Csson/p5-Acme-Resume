@@ -29,7 +29,3 @@ doctype: weaver
 
 plugins:
   - +config: Author::CSSON
-
-  - +remove_plugin: Splint
-
-  - +remove_plugin: Badges
