@@ -1,7 +1,7 @@
 package Acme::Resume;
 
 # VERSION
-# ABSTRACT: Write a humuan-readable résumé in Perl
+# ABSTRACT: Write a human-readable résumé in Perl
 
 use strict;
 use warnings;
