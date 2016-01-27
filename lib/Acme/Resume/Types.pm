@@ -15,8 +15,6 @@ declares
     Jobs,
     TimeMoment {
 
-    # VERSION
-
     class_type TimeMoment => { class => 'Time::Moment' };
     class_type Education => { class => 'Acme::Resume::Types::Education' };
     class_type Job => { class => 'Acme::Resume::Types::Job' };
