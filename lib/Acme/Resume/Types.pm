@@ -4,6 +4,7 @@ use warnings;
 
 # PODCLASSNAME
 # VERSION
+# ABSTRACT: Declares types
 
 library Acme::Resume::Types
 
@@ -15,7 +16,6 @@ declares
     TimeMoment {
 
     # VERSION
-    # ABSTRACT: Declares types
 
     class_type TimeMoment => { class => 'Time::Moment' };
     class_type Education => { class => 'Acme::Resume::Types::Education' };

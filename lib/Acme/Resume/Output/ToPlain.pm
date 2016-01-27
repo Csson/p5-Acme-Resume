@@ -4,11 +4,10 @@ use strict;
 use warnings;
 
 # PODCLASSNAME
+# VERSION:
+# ABSTRACT: Role for plain output
 
 role Acme::Resume::Output::ToPlain {
-
-    # VERSION:
-    # ABSTRACT: Role for plain output
 
     use String::Nudge;
 
