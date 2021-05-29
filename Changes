@@ -6,21 +6,23 @@ Revision history for Acme-Resume
  [Bug Fixes]
 
  [Documentation]
-  - Fixed typo in abstract (#1, thanks ETHER).
 
  [Enhancements]
-
- [Meta]
 
  [New Features]
 
  [Requirements]
 
- [Other Changes]
-  - Rebuilt with current dzil plugins in Dist::Iller::Config::Author::CSSON.
-  - Various minor fixes (trailing whitespace, kwalitee fixes).
-
  [Testing]
+ - Replace TravisCI with Github Actions.
+
+0.0102 2016-01-27T23:18:22Z UTC
+ [Documentation]
+ - Fixed typo in abstract (#1, thanks ETHER).
+
+ [Other Changes]
+ - Rebuilt with current dzil plugins in Dist::Iller::Config::Author::CSSON.
+ - Various minor fixes (trailing whitespace, kwalitee fixes).
 
 0.0101 2015-04-04T20:26:19Z CEST
  [Requirements]
@@ -28,3 +30,4 @@ Revision history for Acme-Resume
 
 0.0100 2015-03-28T22:40:54Z CET
  - Initial release
+

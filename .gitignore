@@ -1,8 +1,12 @@
-/Acme-Resume-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2021-05-29 18:25:45 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0328
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
+/Acme-Resume-*
 .coverhistory.json
