@@ -4,7 +4,7 @@ use warnings;
 
 # ABSTRACT: Defines an education
 # PODNAME: Acme::Resume::Types::Education
-our $VERSION = '0.0103';
+our $VERSION = '0.0104';
 
 class Acme::Resume::Types::Education :rw {
 

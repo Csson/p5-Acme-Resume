@@ -4,7 +4,7 @@ use warnings;
 package Acme::Resume::MoopsParserTrait;
 
 # ABSTRACT: Trait for the Moops parser
-our $VERSION = '0.0103';
+our $VERSION = '0.0104';
 
 use Moo::Role;
 use Module::Runtime qw($module_name_rx);

@@ -4,7 +4,7 @@ use warnings;
 
 # ABSTRACT: Declares types
 # PODNAME: Acme::Resume::Types
-our $VERSION = '0.0103';
+our $VERSION = '0.0104';
 
 library Acme::Resume::Types
 

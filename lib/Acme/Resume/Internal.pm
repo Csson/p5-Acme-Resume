@@ -1,7 +1,7 @@
 package Acme::Resume::Internal;
 
 # ABSTRACT: Moops wrapper for internal use
-our $VERSION = '0.0103';
+our $VERSION = '0.0104';
 
 use strict;
 use warnings;

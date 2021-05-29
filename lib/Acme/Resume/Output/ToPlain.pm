@@ -5,7 +5,7 @@ use warnings;
 
 # ABSTRACT: Role for plain output
 # PODNAME: Acme::Resume::Output::ToPlain
-our $VERSION = '0.0103';
+our $VERSION = '0.0104';
 
 role Acme::Resume::Output::ToPlain {
 
