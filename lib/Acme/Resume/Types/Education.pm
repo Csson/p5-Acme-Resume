@@ -2,9 +2,9 @@ use Acme::Resume::Internal;
 use strict;
 use warnings;
 
-# PODCLASSNAME
-# VERSION
 # ABSTRACT: Defines an education
+# PODNAME: Acme::Resume::Types::Education
+our $VERSION = '0.0103';
 
 class Acme::Resume::Types::Education :rw {
 

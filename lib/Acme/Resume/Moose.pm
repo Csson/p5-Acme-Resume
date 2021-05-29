@@ -4,8 +4,8 @@ use warnings;
 
 package Acme::Resume::Moose;
 
-# VERSION
 # ABSTRACT: Imports methods and adds attributes
+our $VERSION = '0.0103';
 
 use Moose::Exporter;
 use Acme::Resume::Types::Job;

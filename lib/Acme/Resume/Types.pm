@@ -2,9 +2,9 @@ use Moops;
 use strict;
 use warnings;
 
-# PODCLASSNAME
-# VERSION
 # ABSTRACT: Declares types
+# PODNAME: Acme::Resume::Types
+our $VERSION = '0.0103';
 
 library Acme::Resume::Types
 

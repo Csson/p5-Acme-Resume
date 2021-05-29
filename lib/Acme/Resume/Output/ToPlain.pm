@@ -3,9 +3,9 @@ use 5.14.0;
 use strict;
 use warnings;
 
-# PODCLASSNAME
-# VERSION:
 # ABSTRACT: Role for plain output
+# PODNAME: Acme::Resume::Output::ToPlain
+our $VERSION = '0.0103';
 
 role Acme::Resume::Output::ToPlain {
 

@@ -2,9 +2,9 @@ use Acme::Resume::Internal;
 use strict;
 use warnings;
 
-# PODCLASSNAME
-# VERSION
 # ABSTRACT: Defines a Job
+# PODNAME: Acme::Resume::Types::Job
+our $VERSION = '0.0103';
 
 class Acme::Resume::Types::Job :rw {
 

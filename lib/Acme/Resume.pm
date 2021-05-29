@@ -1,7 +1,8 @@
 package Acme::Resume;
 
-# VERSION
 # ABSTRACT: Write a human-readable resume in Perl
+# AUTHORITY
+our $VERSION = '0.0103';
 
 use strict;
 use warnings;
